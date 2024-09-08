@@ -46,8 +46,3 @@ The following Python libraries were used in this project:
     jupyter notebook Plotting_Assignment.ipynb
     ```
 5. Run the cells in the notebook to generate the plots and view the interpretations.
-
-## Interpretations
-
-- **Histogram**: The histogram provides insights into the distribution of a specific numerical feature in the dataset.
-- **Heatmap**: The heatmap reveals the correlations between different features, helping identify relationships that could be important for further analysis or model building.
