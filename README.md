@@ -34,7 +34,9 @@ The following Python libraries were used in this project:
     ```bash
     git clone https://github.com/eadewusic/Project_Plotting.git
     ```
+    
 2. cd into the repo.
+
 3. Install the required libraries if you haven't already:
     ```bash
     pip install pandas numpy matplotlib seaborn
