@@ -1,7 +1,5 @@
 # Project_Plotting | Transport Data Analysis using Matplotlib and Seaborn
 
-## Overview
-
 This project involves analysing a dataset related to transport (vehicles and fuel efficiency) using Python libraries such as Matplotlib and Seaborn. The analysis includes creating visualisations like histograms and heatmaps to understand the relationships between various features in the dataset.
 
 ## Objectives
@@ -34,7 +32,7 @@ The following Python libraries were used in this project:
     ```bash
     git clone https://github.com/eadewusic/Project_Plotting.git
     ```
-    
+
 2. cd into the repo.
 
 3. Install the required libraries if you haven't already:
